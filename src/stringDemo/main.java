@@ -9,7 +9,7 @@ public class main {
         /*
         System.out.println("Eleman sayýsý:" + mesaj.length());
         System.out.println("5. eleman: " + mesaj.charAt(4));
-        System.out.println(mesaj.concat(" Yaþasýn!"));
+        System.out.println(mesaj.concat(" Yasasýn!"));
         System.out.println(mesaj.startsWith("B"));
         System.out.println(mesaj.endsWith("."));
         char[] karakterler = new char[5];
